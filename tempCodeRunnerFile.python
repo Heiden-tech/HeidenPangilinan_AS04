@@ -1,0 +1,1 @@
+return close_price - open_price
